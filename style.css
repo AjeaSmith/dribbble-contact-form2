@@ -76,6 +76,9 @@ body{
 .container .left_content .left{
     display: block;
 }
+.container .left_content .left .phone{
+    margin-bottom: 0.5em;
+}
 .container .left_content h2{
     margin-bottom: 0.2em;
     font-weight: 400;
