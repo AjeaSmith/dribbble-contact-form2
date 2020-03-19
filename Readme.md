@@ -2,6 +2,7 @@
 ### Design decisions:
  - "Roboto" font. It can be found here [https://fonts.google.com/specimen/Roboto](https://fonts.google.com/specimen/Roboto)
  - CSS Grid for layout design
+ - https://fontawesome.com/icons?d=gallery used for icons
 
 ### Helpful Links 
 - [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) link to css grid
